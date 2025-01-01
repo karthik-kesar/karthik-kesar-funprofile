@@ -20,9 +20,6 @@ Hi there! I'm Karthik Kesar from Bangalore, India's tech hub. I work in business
 ---
 
 <div align="center">
-  ![Animated Traveling GIF](travel.gif) 
-</div>
-
-
+<gif src="travel.gif" “alt=travel”alt="Animated Traveling GIF" width="300”>
 </div>
 
