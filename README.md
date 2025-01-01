@@ -13,13 +13,14 @@ Hi there! I'm Karthik Kesar from Bangalore, India's tech hub. I work in business
 *  **Facebook:** [Facebook](https://www.facebook.com/share/UrAcMi5rbgCzxynn/)
 *  **X:** [X](https://x.com/rehamania?t=YsscXyKH20FWeENXJVg9Xw&s=09)
 
-**A little inspiration:**
+**A little Motivation:**
 
 > Rumi: When you feel you cannot even bear one more MINUTE, NEVER GIVE UP! Because it is the time and place that the course will divert! ✨
 
 ---
 
 <div align="center">
-<img src="travel.gif" alt="Animated Traveling GIF" width="300”>
+![Animated Traveling GIF](travel.gif)
+
 </div>
 
